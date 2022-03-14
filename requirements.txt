@@ -1,0 +1,17 @@
+graphviz
+matplotlib
+numpy
+pandas>1.3.0
+networkx
+pydot
+pyro-ppl
+deap
+scikit-learn
+seaborn
+requests
+torch
+tqdm
+
+# Memory images
+SciencePlots
+tikzplotlib
